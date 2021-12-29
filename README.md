@@ -1,3 +1,3 @@
-# node-bhulux
+# Docs IlPas
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-bhulux)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/doc-ilpas)
