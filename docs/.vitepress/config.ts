@@ -26,8 +26,9 @@ export default defineConfig({
           children: [
             { text: 'Audiosoft Go', link: '/apps/go' },
             { text: 'Audiosoft Calendar', link: '/apps/calendar' },
-            { text: 'Smart Hearing Test', link: '/apps/sht' },
             { text: 'Minosse', link: '/apps/minosse' },
+            { text: 'Smart Hearing Test', link: '/apps/sht' },
+            { text: 'Audiosoft Analytics', link: '/apps/analytics' },
           ],
         },
       ],
